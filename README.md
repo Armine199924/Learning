@@ -7,7 +7,6 @@
   Learning from the official docs: [FastAPI – Learn](https://fastapi.tiangolo.com/learn/)
 
 - **Docker**  
-  Getting hands-on with containerization and deployment.
 
 ---
 
