@@ -1,7 +1,5 @@
 📚 Learning Goals
 
-I'm currently focused on deepening my understanding of the following topics:
-
 - **Object-Oriented Programming (OOP)**  
   Reading: [*Pro C# 10 with .NET 6* – Part III: Object Oriented Programming](https://dl.ebooksworld.ir/books/Pro.CSharp.10.with.NET.6.Andrew.Troelsen.Phil.Japikse.Apress.9781484278680.EBooksWorld.ir.pdf)
 
